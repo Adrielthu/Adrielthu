@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hola👋 Soy Adriel Starchevich</h1>
 
-<!--
-**Adrielthu/Adrielthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+🎓 Soy estudiante avanzado en la Tec. en Procesamiento y Explotación de Datos de la Universidad Nacional de Entre Ríos (UNER). En simples palabras, tengo conocimientos en ciencia de datos, ingeniería de datos y análisis de datos.
 
-Here are some ideas to get you started:
+---
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Algunas herramientas con las que trabajo👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--iconos-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,postgres,py,git" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+- [LinkedIn](https://www.linkedin.com/in/adriel-starchevich/)
