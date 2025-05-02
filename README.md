@@ -31,7 +31,7 @@
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriel-starchevich/)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/adriel-starchevich/)
 
 ---
 
