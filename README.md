@@ -1,8 +1,10 @@
-<h1 align="center">Hola👋 Soy Adriel Starchevich</h1>
+<h1 align="center">
+  Hola👋 Soy Adriel Starchevich
+</h1>
 
----
-🎓 Soy estudiante avanzado en la Tec. en Procesamiento y Explotación de Datos de la Universidad Nacional de Entre Ríos (UNER). En simples palabras, tengo conocimientos en ciencia de datos, ingeniería de datos y análisis de datos.
-
+<h2>
+  🎓 Soy estudiante avanzado en la Tec. en Procesamiento y Explotación de Datos de la Universidad Nacional de Entre Ríos (UNER). En simples palabras, tengo conocimientos en ciencia de datos, ingeniería de datos y análisis de datos.
+</h2>
 ---
 <!--h1 without bottom border-->
 <div id="user-content-toc">
