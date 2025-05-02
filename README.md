@@ -13,8 +13,11 @@
 
 ---
 
+
 ## 🚀 Skills
 
+<div align="center">
+  
 ### 🧠 Lenguajes
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,r)
@@ -27,12 +30,22 @@
 
 ![Libraries](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,sklearn)
 
+</div>
+
 ---
 
 ## 📫 Contacto
-
+<div align="center">
+  
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/adriel-starchevich/)
+
+</div>
 
 ---
 
+<div align="center">
+  
 *¡Gracias por visitar mi perfil!* 🙌
+
+</div>
+
