@@ -1,34 +1,38 @@
 <h2 align="center">
-  Hola👋 Soy Adriel Starchevich
+  👋 ¡Hola! Soy Adriel Starchevich
 </h2>
 
 <h3 align="center">
-  En pocas palabras, tengo conocimientos en Análisis de Datos, Ciencia de Datos y en Ingeniería de Datos.
-  Pero me estoy centrando en la Ingeniería de Datos.
+  Me gustan los datos y me estoy enfocando para ser Ingeniero de Datos 🚀 💻📊
 </h3>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Algunas herramientas con las que trabajo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--iconos-->
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,postgres,git,tensorflow,sklearn" />
-  </a>
+  Tengo experiencia en <strong>Análisis de Datos</strong>, <strong>Ciencia de Datos</strong> e <strong>Ingeniería de Datos</strong>. <br>
+  Actualmente, me estoy especializando en procesos de <em>ETL</em>, <em>almacenamiento de datos</em>, <em>automatización</em> y <em>pipelines</em>.<br>
 </p>
 
-## Skills
+---
 
-### Languages
+## 🚀 Skills
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=r,py")
+### 🧠 Lenguajes
 
-### Tecnologías
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,r)
+
+### 🛠️ Tecnologías
 
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=postgres,git)
 
-### Librerías
+### 📚 Librerías & Frameworks
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,sklearn)
+![Libraries](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,sklearn)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adriel-starchevich/)
+
+---
+
+*¡Gracias por visitar mi perfil!* 🙌
