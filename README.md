@@ -24,7 +24,7 @@
 
 ### 🛠️ Tecnologías
 
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=postgres,git)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=postgres,git,linux,cloudflare,docker,grafana)
 
 ### 📚 Librerías & Frameworks
 
